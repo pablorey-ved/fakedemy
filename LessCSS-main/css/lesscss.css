@@ -93,3 +93,9 @@ img{
     object-fit:contain;
     margin: 0;
 }
+
+@media (max-width: 768px) {
+    .navbar{
+        flex-direction: column;
+    }
+}

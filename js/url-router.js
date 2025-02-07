@@ -1,5 +1,12 @@
-const baseRoute = "/fakedemy"
+//const baseRoute = "/fakedemy"
 const urlPageTitle = "JS Single Page Application Router";
+
+function getBaseRoute() {
+	const url = window.location.pathname;
+	let ls = url.split("/");
+	ls.pop();
+	return ls.join("/");
+}
 
 // create document click that watches the nav links only
 document.addEventListener("click", (e) => {
@@ -56,7 +63,8 @@ const urlRoute = (event) => {
 
 // create a function that handles the url location
 const urlLocationHandler = async () => {
-	const location = window.location.pathname.substring(baseRoute.length); // get the url path
+	let baseRoute = getBaseRoute();
+	let location = window.location.pathname.substring(baseRoute.length); // get the url path
 	// if the path length is 0, set it to primary page route
 	if (location.length == 0) {
 		location = baseRoute + "/";
