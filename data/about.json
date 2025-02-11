@@ -1,14 +1,26 @@
 [
     {
-       "src": "./img/user.png",
-       "title": "Ejemplo Curso",
-       "desc": "Descripcion Curso",
-       "cat": "Categoria"
+       "src": "./img/Random1.jpg",
+       "title": "John Reynolds",
+       "desc": "With over a decade of experience in web infrastructure, John founded Fakedemy with a passion for delivering reliable and secure hosting solutions. He oversees business strategy and innovation, ensuring the company stays ahead in the industry.",
+       "cat": "CEO & Founder"
     },
     {
-        "src": "./img/user.png",
-        "title": "Ejemplo2 Curso",
-        "desc": "Descripcion2 Curso",
-        "cat": "Categoria2"
-     }
+        "src": "./img/Random2.jpg",
+        "title": "Emily Carter",
+        "desc": "Emily leads our 24/7 support team, ensuring that our customers receive prompt and effective assistance. With a background in IT and cybersecurity, she is committed to keeping our servers running smoothly and securely.",
+        "cat": "Head of Technical Support"
+    },
+    {
+        "src": "./img/Foto_Curriculum.jpg",
+        "title": "Pablo Rey",
+        "desc": "Pablo specializes in digital marketing and customer engagement. He is responsible for brand strategy, partnerships, and helping businesses discover the best hosting solutions for their needs.",
+        "cat": "Marketing Director"
+    },
+    {
+        "src": "./img/Random3.jpg",
+        "title": "Sophia Martinez",
+        "desc": "As a seasoned web developer, Sophia focuses on optimizing server performance, implementing the latest web technologies, and ensuring a seamless experience for our clients.",
+        "cat": "Lead Web Developer"
+    }
 ]
