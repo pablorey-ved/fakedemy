@@ -1,14 +1,14 @@
 [
     {
-       "src": "./img/user.png",
-       "title": "Ejemplo Curso",
-       "desc": "Descripcion Curso",
-       "cat": "Categoria"
+       "src": "./img/CloudComputing.png",
+       "title": "Reliable & Secure Cloud Storage for Your Business",
+       "desc": "Our cloud storage service provides a seamless, secure, and scalable solution for businesses of all sizes. With state-of-the-art encryption, automated backups, and easy file-sharing capabilities, you can store, access, and collaborate on your data from anywhere, anytime.",
+       "cat": "Cloud Computing"
     },
     {
-        "src": "./img/user.png",
-        "title": "Ejemplo2 Curso",
-        "desc": "Descripcion2 Curso",
-        "cat": "Categoria2"
+        "src": "./img/WebHosting.png",
+        "title": "Reliable & Scalable Web Hosting for Your Business",
+        "desc": "We provide fast, secure, and scalable web hosting solutions tailored to meet your business needs. Whether you're launching a personal blog, an e-commerce store, or a corporate website, our hosting services ensure 99.9% uptime, lightning-fast load speeds, and top-tier security.",
+        "cat": "Web Hosting"
      }
 ]
