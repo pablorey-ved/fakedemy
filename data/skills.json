@@ -1,14 +1,32 @@
 [
     {
-       "src": "./img/user.png",
-       "title": "Ejemplo1 Curso",
-       "desc": "Descripcion1 Curso",
-       "cat": "Categoria"
+       "src": "./img/Office.jpg",
+       "title": "Mastering the Office Suite: Essential Skills for Productivity",
+       "desc": "Learn the fundamentals of the Microsoft Office Suite, including Word, Excel, PowerPoint, and Outlook. This course will teach you how to create polished documents, manage email efficiently, design impactful presentations, and organize data for business success. Perfect for beginners or those looking to refresh their skills.",
+       "cat": "Office Basics"
     },
     {
-        "src": "./img/user.png",
-        "title": "Ejemplo2 Curso",
-        "desc": "Descripcion2 Curso",
-        "cat": "Categoria2"
-     }
+        "src": "./img/Word.png",
+        "title": "Advanced Text Processing with Microsoft Word and Google Docs",
+        "desc": "Dive deep into professional text formatting, document collaboration, and automation tools. Learn advanced features like templates, styles, mail merge, and real-time collaboration to create high-quality reports, proposals, and letters.",
+        "cat": "Text Processing"
+    },
+    {
+       "src": "./img/Excel.png",
+       "title": "Data Analysis and Automation with Spreadsheets",
+       "desc": "This course covers advanced Excel techniques like PivotTables, VLOOKUP, data visualization, and macros. You'll learn how to organize, analyze, and present data effectively, making it ideal for business professionals and analysts.",
+       "cat": "Excel Mastery"
+    },
+    {
+       "src": "./img/Access.png",
+       "title": "Introduction to Databases and Microsoft Access",
+       "desc": "Discover the power of databases for managing and organizing data. This course teaches you how to create, query, and manage databases using Microsoft Access, including designing tables, building relationships, and generating insightful reports.",
+       "cat": "Database Essentials"
+    },
+    {
+       "src": "./img/Teams.png",
+       "title": "Boost Your Productivity with Tech Tools for Business",
+       "desc": "Explore a variety of technology tools that streamline workflows and enhance productivity. From collaboration platforms like Slack and Teams to project management tools like Trello and Asana, this course equips you with skills to manage business tasks efficiently in a tech-driven world.",
+       "cat": "Tech Business Skills"
+    }
 ]
